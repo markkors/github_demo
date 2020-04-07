@@ -2,4 +2,4 @@
 
 // dit is een test
 
-echo "test";
+echo "testje";
